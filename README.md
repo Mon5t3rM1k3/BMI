@@ -40,7 +40,7 @@ Clone the repository:
 bash
 Copy
 Edit
-git clone https://github.com/yourusername/bmi-calculator-genai.git
+git clone (https://github.com/Mon5t3rM1k3/BMI/blob/main/BMI.html)
 Open index.html in your browser.
 
 Enter your weight and height.
